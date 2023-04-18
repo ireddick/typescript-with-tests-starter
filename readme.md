@@ -14,7 +14,7 @@ This is a starter for when I want to play around with writing TypeScript with te
 
 Run tests with `npm test`
 
-Start with '`npm start`
+Start with `npm start`
 
 Clean build cache & output with `npm clean`
 
