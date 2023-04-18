@@ -14,9 +14,9 @@ This is a starter for when I want to play around with writing TypeScript with te
 
 Run tests with `npm test`
 
-Start with `npm start`
+Clean build cache & target dir with `npm clean`
 
-Clean build cache & output with `npm clean`
+Run the main script with `npm start`
 
 Build output goes to `target` with no bundling, etc.
 
