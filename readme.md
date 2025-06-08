@@ -22,4 +22,6 @@ Build output goes to `target` with no bundling, etc.
 
 ## Irritations
 
-tsc is slow, even with the `incremental` flag enabled
+tsc is slow, even with the `incremental` flag enabled.
+
+NOTE: the new native TypeScript native binary looks like it significantly improves things, but currently the separate 'tsgo' binary is raising some errors.
